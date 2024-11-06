@@ -19,7 +19,7 @@ This script used the bootstrapped values of the parameters used in the calculati
 
 Note: this script takes at least 15 hours for all calculations. This time could definitely be shortened by doing some more matrix calculations.
 
-# Script 4:
+# Script 4
 File: scripts/4_incertitudes_post analyses.R
 
 This final script does some final data preparation before generating all remaining figures.
